@@ -66,12 +66,12 @@ With a strong foundation in technical support and systems engineering, I bring a
 ---
 
 ## 🏅 Certifications
-* **ISC2** — Certified in Cybersecurity (CC)
-* **[NCP-MCI 6.5](https://img.shields.io/badge/NCP--MCI%206.5-Level%20300%20%7C%20Multicloud%20Infrastructure-7855FA?style=for-the-badge&logo=nutanix&logoColor=white)
-* **[Nutanix Sizing Professional](https://img.shields.io/badge/ACCR%3A%20Sizing%20Prof-Level%20200%20%7C%20Accredited%20Professional-7855FA?style=for-the-badge&logo=nutanix&logoColor=white)
-* **[NCSR 2022](https://img.shields.io/badge/NCSR%202022-Level%20200%20%7C%20Sales%20Representative-024DA1?style=for-the-badge&logo=nutanix&logoColor=white)
-* **[NCA 6.10](https://img.shields.io/badge/NCA%206.10-Level%20100%20%7C%20Multicloud%20Infrastructure-00B5B8?style=for-the-badge&logo=nutanix&logoColor=white)
-* **[NCS-Core 6.8](https://img.shields.io/badge/NCS--Core%206.8-Level%20100%20%7C%20Services%20Core-00B5B8?style=for-the-badge&logo=nutanix&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-00A859?style=for-the-badge)
+![NCP-MCI 6.5](https://img.shields.io/badge/NCP--MCI%206.5-Level%20300%20%7C%20Multicloud%20Infrastructure-7855FA?style=for-the-badge&logo=nutanix&logoColor=white)
+![Nutanix Sizing Professional](https://img.shields.io/badge/ACCR%3A%20Sizing%20Prof-Level%20200%20%7C%20Accredited%20Professional-7855FA?style=for-the-badge&logo=nutanix&logoColor=white)
+![NCSR 2022](https://img.shields.io/badge/NCSR%202022-Level%20200%20%7C%20Sales%20Representative-024DA1?style=for-the-badge&logo=nutanix&logoColor=white)
+![NCA 6.10](https://img.shields.io/badge/NCA%206.10-Level%20100%20%7C%20Multicloud%20Infrastructure-00B5B8?style=for-the-badge&logo=nutanix&logoColor=white)
+![NCS-Core 6.8](https://img.shields.io/badge/NCS--Core%206.8-Level%20100%20%7C%20Services%20Core-00B5B8?style=for-the-badge&logo=nutanix&logoColor=white)
 
 ---
 
